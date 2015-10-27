@@ -22,6 +22,7 @@ Bundle 'tpope/vim-rails'
 Bundle 'L9'
 Bundle 'FuzzyFinder'
 Bundle 'valgrind.vim'
+Bundle 'digitaltoad/vim-jade'
 
 filetype plugin indent on     " required!
 
